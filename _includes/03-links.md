@@ -1,1 +1,1 @@
-[my gihub link]  https://simonlbs.github.com/
+[my gihub link]  (https://simonlbs.github.com/)
